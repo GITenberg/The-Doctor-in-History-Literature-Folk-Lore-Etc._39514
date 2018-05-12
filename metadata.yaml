@@ -1,0 +1,39 @@
+_repo: The-Doctor-in-History-Literature-Folk-Lore-Etc._39514
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 39514-h/images/cover.jpg
+creator:
+  editor:
+    agent_name: Andrews, William
+    birthdate: 1848
+    deathdate: 1908
+    gutenberg_agent_id: '8969'
+    url: http://www.gutenberg.org/2009/agents/8969
+description: ''
+gutenberg_issued: '2012-04-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39514'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Physicians'
+- !lcc 'R'
+- !lcsh 'Physicians in literature'
+- !lcsh 'Literature and medicine'
+tableOfContents: Barber-surgeons / William Andrews -- Touching for the king's evil
+  / William Andrews -- Visiting patients -- Assaying meat and drink / William Andrews
+  -- The gold-headed cane / Tom Robinson -- Magic and medicine / Cuming Walters --
+  Chaucer's doctor of physic / W.H. Thompson -- The doctors Shakespeare knew / A.H.
+  Wall -- Dickens' doctors / Thomas Frost -- Famous literary doctors / Cuming Walters
+  -- The "Doctor" in time of pestilence / William E.A. Axon -- Mountebanks and medicine
+  / Thomas Frost -- The strange story of the fight with the small-pox / Thomas Frost
+  -- Burkers and body-snatchers / Thomas Frost -- Reminiscences of the cholera / Thomas
+  Frost -- Some old doctors / Mrs. G. Linnæus Banks -- The lee penny -- How our fathers
+  were physicked / J.A. Langford -- Medical folk-lore / John Nicholson -- Of physicians
+  and their fees, with some personal reminiscences / Andrew James Symington.
+title: The Doctor in History, Literature, Folk-Lore, Etc.
+url: http://www.gutenberg.org/ebooks/39514
